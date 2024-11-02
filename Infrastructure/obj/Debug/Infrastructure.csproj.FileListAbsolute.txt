@@ -1,0 +1,124 @@
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll.config
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll.config
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Castle.Core.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Moq.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Castle.Core.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Moq.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Moq.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Castle.Core.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Moq.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Moq.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\3_DataAccess.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\4_BusinessObjectModel.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\BusinessLayer.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Castle.Core.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\Moq.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastr.15EFFBFE.Up2Date
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\Infrastructure\obj\Debug\Infrastructure.pdb

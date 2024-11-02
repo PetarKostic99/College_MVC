@@ -1,0 +1,49 @@
+﻿@model CollegeViewModel
+@{
+    ViewBag.Title = "College Student Details";
+}
+<h2>Edit College Students</h2>
+
+@if (User.IsInRole("Professor"))
+{
+    using (Html.BeginForm("EditDetails", "CollegeStudents", FormMethod.Post))
+    {
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <br />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.UserId)
+        @Html.Partial("_Edit", Model)
+        <div class="form-group">
+            @Html.LabelFor(model => model.College_Name, htmlAttributes: new { @class = "control-label col-md-4" })
+            <div class="col-md-8">
+                @Html.EditorFor(model => model.College_Name, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.College_Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Generation_of_Student, htmlAttributes: new { @class = "control-label col-md-4" })
+            <div class="col-md-8">
+                @Html.EditorFor(model => model.Generation_of_Student, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Generation_of_Student, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" @Model.Disabled />
+            </div>
+        </div>
+    </div>
+    }
+    <div>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.UserId }, new { @class = "btn btn-primary btn-sm" })
+        @Html.ActionLink("Back to List", "Index", "College", new { @class = "btn btn-primary btn-sm" })
+        @Html.ActionLink("Download Details", "Export", new { id = Model.UserId }, new { @class = "btn btn-primary btn-sm" })
+        <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModal">
+            Delete
+        </button>
+    </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+}

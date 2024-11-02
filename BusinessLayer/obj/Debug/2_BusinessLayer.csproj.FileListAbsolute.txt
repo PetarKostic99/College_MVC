@@ -1,0 +1,475 @@
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CopyComplete
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+D:\ProjectsGIT\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CopyComplete
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\apetras\Desktop\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CopyComplete
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Project on work\Backup3\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CopyComplete
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProjectsGIT\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CopyComplete
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\GitProjects\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CopyComplete
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\koleg\C#\MVCHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Mvc5.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\ZstdNet.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\3_DataAccess.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\4_BusinessObjectModel.dll.config
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Castle.Core.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Moq.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\MySql.Data.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Buffers.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Memory.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\bin\Debug\Unity.Container.pdb
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\2_Busine.0A43CB86.Up2Date
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Petar\Desktop\Programiranje\ProjektiC#\Pera Projekti\MvcAppHelloWorld\MvcAppHelloWorld\BusinessLayer\obj\Debug\BusinessLayer.pdb

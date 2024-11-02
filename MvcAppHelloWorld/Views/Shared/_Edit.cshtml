@@ -1,0 +1,57 @@
+﻿@model UsersViewModel
+
+
+<div class="form-group">
+    @Html.LabelFor(model => Model.Name, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.Name, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.Name, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => Model.Lastname, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.Lastname, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.Lastname, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => Model.House_Address, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.House_Address, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.House_Address, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => Model.Birthday_date, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.Birthday_date, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.Birthday_date, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => Model.Phone_Number, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.Phone_Number, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.Phone_Number, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => Model.Email, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.Email, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.Email, "", new { @class = "text-danger" })
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(model => Model.Password, htmlAttributes: new { @class = "control-label col-md-4" })
+    <div class="col-md-8">
+        @Html.EditorFor(model => Model.Password, Model.ReadOnly == true ? (object)new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } } : (object)new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => Model.Password, "", new { @class = "text-danger" })
+    </div>
+</div>

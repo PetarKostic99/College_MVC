@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ProfessorQueryViewModel>
+
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<h2>Professors</h2>
+@if (User.IsInRole("Admin"))
+{
+    @Html.ActionLink("Create new", "Create", "Professor", new { @class = "btn btn-success btn-sm" })
+
+}
+<div class="col-md-3">
+    @using (Html.BeginForm("Search", "Professor", FormMethod.Get))
+    {
+        <p>
+            @Html.TextBox("SearchString")
+            <input type="submit" value="Search" class="btn btn-primary btn-sm">
+        </p>
+    }
+</div>
+<table class="table">
+
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ClassSubject)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cabinet)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lastname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClassSubject)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cabinet)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.UserId }, new { @class = "btn btn-info btn-sm" })
+                @if (User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.UserId }, new { @class = "btn btn-primary btn-sm" })
+                    <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal-@item.UserId">Delete</button>
+
+                }
+            </td>
+        </tr>
+        @Html.Partial("_Modal", Model)
+
+    }
+
+</table>

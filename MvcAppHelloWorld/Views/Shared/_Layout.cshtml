@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>@ViewBag.Title -Hello World</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+   
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                    @Html.ActionLink(User.Identity.Name, "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+                        if (User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("Admin area", "Index", "Admin")</li>
+                            <li><a href="@Url.Action("Index","Professor")">Professors</a></li>
+                            <li>@Html.ActionLink("College Students", "Index", "CollegeStudents")</li>
+                            <li>@Html.ActionLink("High School Students", "Index", "HighSchoolStudents")</li>
+                            <li>@Html.ActionLink("Roles", "Index", "Roles")</li>
+
+                        }
+
+                        if (User.IsInRole("Professor"))
+                        {
+                            <li>@Html.ActionLink("User Profile", "Profile", "Professor")</li>
+                            <li>@Html.ActionLink("College Students", "Index", "CollegeStudents")</li>
+                            <li>@Html.ActionLink("High School Students", "Index", "HighSchoolStudents")</li>
+                        }
+                        if (User.IsInRole("College"))
+                        {
+                            <li>@Html.ActionLink("User Profile", "Profile", "CollegeStudents")</li>
+                        }
+                        if (User.IsInRole("HighSchool"))
+                        {
+                            <li>@Html.ActionLink("User Profile", "Profile", "HighSchoolStudents")</li>
+                        }
+
+                        <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                    }
+
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <li>@Html.ActionLink("Login", "Index", "Login")</li>
+                    }
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+</body>
+</html>
+@Scripts.Render("~/bundles/jquery")
+@*@Scripts.Render("~/bundles/bootstrap")*@
+@*@RenderSection("scripts", required: false)*@

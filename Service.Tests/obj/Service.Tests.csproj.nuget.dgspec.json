@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Service.Tests\\Service.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj",
+        "projectName": "3_DataAccess",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj",
+        "projectName": "4_BusinessObjectModel",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj",
+        "projectName": "2_BusinessLayer",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Infrastructure\\Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Infrastructure\\Infrastructure.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\MvcAppHelloWorld\\1_Presentation.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\MvcAppHelloWorld\\1_Presentation.csproj",
+        "projectName": "1_Presentation",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\MvcAppHelloWorld\\1_Presentation.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Service.Tests\\Service.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Service.Tests\\Service.Tests.csproj",
+        "projectName": "Service.Tests",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Service.Tests\\Service.Tests.csproj",
+        "packagesPath": "C:\\Users\\Petar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\Service.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Petar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\3_DataAccess\\3_DataAccess.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\4_BusinessObjectModel\\4_BusinessObjectModel.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\BusinessLayer\\2_BusinessLayer.csproj"
+              },
+              "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\MvcAppHelloWorld\\1_Presentation.csproj": {
+                "projectPath": "C:\\Users\\Petar\\Desktop\\Programiranje\\ProjektiC#\\Pera Projekti\\MvcAppHelloWorld\\MvcAppHelloWorld\\MvcAppHelloWorld\\1_Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
